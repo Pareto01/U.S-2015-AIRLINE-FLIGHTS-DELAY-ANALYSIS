@@ -86,7 +86,7 @@ Boston had 36 percent of their flights delayed.
 ### How many flights were canceled in 2015? What % of cancellations were due to weather? What % were due to the Airline/Carrier?
 Cancelled Flight               |        Cancellation of Flight (%)
 :-----------------------------:|:--------------------------------------------------:
-![](Cancelled_flight.png)      |              ![](%Cancel_Flight.png)
+![](Cancelled_flight.png)      |              ![](https://github.com/Pareto01/U.S-2015-AIRLINE-FLIGHTS-DELAY-ANALYSIS/blob/main/%25Cancel_Flight.png)
 
 A total number of 89,884 flights were canceled.
 Also, we can see that weather stands to be the top reason for flight cancellations followed by Airline/Carrier issues.
