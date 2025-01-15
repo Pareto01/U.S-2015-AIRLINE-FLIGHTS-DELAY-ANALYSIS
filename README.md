@@ -22,6 +22,7 @@ The datasets were provided in Excel format; hence the extraction was straightfor
 ## Cleaning and Analyzing Procedures
 After thoroughly and systematically examining the dataset, no null values, duplicates, or other abnormalities that require resolution were found. The data is clean and ready for analysis, allowing us to proceed without data preprocessing.
 In the dataset, a total of 5,819,079 flights were scheduled in 2015. Now, let’s explore the number of flights canceled or delayed and identify the airlines associated with them.
+
 ![](Trans_Data.png)
 ---
 
@@ -44,6 +45,7 @@ The following power BI were incorporated:
 
 ## Data Modelling
 The primary tables that make up the data model are Airline, Airport, and Flight. To optimize the performance of the data model, these tables are interconnected through specific relationships, primarily constructed on unique identifiers in order to enable analysis of airline operations, flight schedules, and airport details.
+
 ![](Data_Model.png)
 ---
 
@@ -61,6 +63,7 @@ Monthly Flights     |    Number of Flights by Day of Week
 
 The data shows that flights are highest in July and lowest in February, which corresponds with less days in the non-leap year. Furthermore, a seasonal trend was evident in the fact that more flights were scheduled in the summer than in other months.
 Because there are fewer months with thirty-one days, there are about half as many flights scheduled on the 31st than there are on other days. In addition, there are fewer flights on weekends, especially Saturdays, and near the end of the month, which may be related to February's shortened duration.
+
 ---
 
 ### What percentage of flights experienced a departure delay in 2015? Among those flights, what was the average delay time, in minutes?
