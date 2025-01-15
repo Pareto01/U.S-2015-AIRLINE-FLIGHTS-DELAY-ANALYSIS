@@ -94,7 +94,7 @@ Also, we can see that weather stands to be the top reason for flight cancellatio
 ## Which airlines seem to be most and least reliable, in terms of on-time departure?
 Top 7 Reliable          |        Least 7 Relaible
 :----------------------:|:-----------------------:
-![](Top7_Ontime_Dept.png)           | ![](Least7_Ontime-Dept.png)
+![](Top7_Ontime_Dept.png)           | ![](https://github.com/Pareto01/U.S-2015-AIRLINE-FLIGHTS-DELAY-ANALYSIS/blob/main/Least7_Ontime_Dept.png)
 
 In terms of On-time departure, Southwest Airlines Co. seems to be the most reliable commercial airline with 18.8 percent of the total on-time departure. In comparison, Virgin America happens to be the least reliable with 1.04 percent of the total on-time departure.
 
