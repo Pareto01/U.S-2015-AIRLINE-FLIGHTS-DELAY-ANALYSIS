@@ -78,7 +78,7 @@ Furthermore, when examining the average departure delay for flights by airline, 
 
 Monthly Percentage of Delayed Flight                    |        Delayed Boston Flight
 :------------------------------------------------------:|:------------------------------------:
-![](https://github.com/Pareto01/U.S-2015-AIRLINE-FLIGHTS-DELAY-ANALYSIS/blob/main/Monthly%25_Delayed_flight.pn       |      ![](Boston_Flight.png)
+![](https://github.com/Pareto01/U.S-2015-AIRLINE-FLIGHTS-DELAY-ANALYSIS/blob/main/Monthly%25_Delayed_flight.png)      |      ![](Boston_Flight.png)
 
 The data shows that flights are highest in July and lowest in February, which corresponds with less days in the non-leap year. Furthermore, a seasonal trend was evident in the fact that more flights were scheduled in the summer than in other months. Because there are fewer months with thirty-one days, there are about half as many flights scheduled on the 31st than there are on other days.
 Boston had 36 percent of their flights delayed.
